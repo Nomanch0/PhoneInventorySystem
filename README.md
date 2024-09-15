@@ -1,7 +1,4 @@
 # PhoneInventorySystem
-
-# Phone Inventory System
-
 ## Overview
 
 The Phone Inventory System is a Java console application designed to manage and organize phone data. This system allows users to add new phones, search for phones by title or price, sort phones by storage or price, and display details of the most expensive phone or all phones in the inventory.
